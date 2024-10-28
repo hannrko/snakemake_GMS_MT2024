@@ -22,7 +22,7 @@ web for Python 3, and go [here for an intro to conda](https://docs.conda.io/proj
 
 ## Prerequisite software
 
-At a minimum, you should have Conda (Miniconda is fine), and Snakemake installed. Read the [Snakemake docs](https://snakemake.readthedocs.io/en/v3.10.2/getting_started/installation.html)
+At a minimum, you should have Conda (Miniconda is fine), and Snakemake installed. Read the [Snakemake docs](https://snakemake.readthedocs.io/en/stable/)
 on how to install these.
 
 I will use bash commands or R scripts in the tutorial, so Linux or MacOS is ideal. For the purpose of this tutorial 
