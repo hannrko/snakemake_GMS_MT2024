@@ -1,0 +1,4 @@
+rule simple_rule:
+    input: "data/reduplication_poetry.txt"
+    output: "output/Word_count.txt"
+shell: "wc {input}> {output}"
