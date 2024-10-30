@@ -6,6 +6,6 @@ rule count_lines:
     output: "output/count_{sample}.txt"
     shell:
         """
-        zcat {input} | wc -l > {output}
+        gzcat {input} | wc -l > {output}
         """
  
